@@ -34,9 +34,8 @@ receiver = st.text_input("Receiver")
 amount = st.text_input("Amount")
  ```  
 ## Step 4: Test the PyChain Ledger by Storing Records - Completed in Streamlit.  
-This task included entering valyes for sender, receiver, and amount several times to add transactions to the chain.  Then I clicked Validate, result = True.  Refer to screenshots.
+This task included entering values for sender, receiver, and amount several times to add transactions to the chain.  Then I clicked Validate, result = True.  Refer to screenshots.  
 
-
-
-
-
+![image](./images/screenshot_streamlit.png)  
+  
+![image](./images/screenshot_streamlit2.png)  
